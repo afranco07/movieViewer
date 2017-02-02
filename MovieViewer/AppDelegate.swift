@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  MovieViewer
 //
-//  Created by Millennia Franco on 2/1/17.
 //  Copyright © 2017 Alberto Franco. All rights reserved.
 //
 

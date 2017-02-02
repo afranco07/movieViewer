@@ -1,8 +1,6 @@
 //
 //  MovieCell.swift
 //  MovieViewer
-//
-//  Created by Millennia Franco on 2/2/17.
 //  Copyright © 2017 Alberto Franco. All rights reserved.
 //
 
